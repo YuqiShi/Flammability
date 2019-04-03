@@ -1,0 +1,6 @@
+To be read...
+
+
+Mclinden2014:A thermodynamic analysis of refrigerants: Possibilities and tradeoffs for Low-GWP refrigerants
+Abstact:We explore the possibilities for refrigerants having low global warming potential (GWP). A set of about 1200 candidate fluids is identified from more than 56 000 small molecules examined by applying screening criteria to estimates for GWP, flammability, stability, toxicity, and critical temperature. Methodologies for this screening have been presented in earlier works and are summarized here. The fluids with critical temperatures between 300 K and 400 K (i.e., those that could be used in current types of equipment with minor modifications) number 62. The fluids include halogenated olefins; compounds containing oxygen, nitrogen, or sulfur; as well as carbon dioxide. We discuss the tradeoffs presented by these 62 candidates, considering their thermodynamic properties and their stability and toxicity characteristics. No fluid is ideal in all regards¡ªall have one or more negative attributes: poor thermodynamic properties, toxicity, chemical instability, low to moderate flammability, or very high operating pressures.
+
